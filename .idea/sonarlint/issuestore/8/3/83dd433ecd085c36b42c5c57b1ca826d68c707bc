@@ -1,0 +1,4 @@
+
+typescript:S6606-"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(°·ù©8Ş¿ÊŸç1
+ëtypescript:S6848["ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(¯ƒúÁøÿÿÿÿ8ß¿ÊŸç1
+‡typescript:S1082["_Visible, non-interactive elements with click handlers must have at least one keyboard listener.(¯ƒúÁøÿÿÿÿ8à¿ÊŸç1

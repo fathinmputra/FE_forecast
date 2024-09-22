@@ -1,0 +1,6 @@
+projectKey=erp-its-fe
+serverUrl=http://103.127.134.4:9099
+serverVersion=10.5.1.90531
+dashboardUrl=http://103.127.134.4:9099/dashboard?id=erp-its-fe
+ceTaskId=54bc1cae-0e04-4fa3-b8b9-d24275ad760d
+ceTaskUrl=http://103.127.134.4:9099/api/ce/task?id=54bc1cae-0e04-4fa3-b8b9-d24275ad760d

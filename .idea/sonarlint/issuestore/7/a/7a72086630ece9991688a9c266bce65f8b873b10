@@ -1,0 +1,8 @@
+
+’typescript:S6606^"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(ã˜¢Öøÿÿÿÿ8¿ÛŸºˆ2
+“typescript:S6606”"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(žÞË‰ÿÿÿÿÿ8¿ÛŸºˆ2
+“typescript:S6606´"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(çÿÿæûÿÿÿÿ8¿ÛŸºˆ2
+“typescript:S6606Î"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(»ÆÖïúÿÿÿÿ8¿ÛŸºˆ2
+Btypescript:S6479æ"Do not use Array index in keys(•Á»î8¿ÛŸºˆ2
+Žtypescript:S6606ì"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(õþÿÜ8ÁÛŸºˆ2
+“typescript:S6606ð"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(’ŸˆŽþÿÿÿÿ8ÁÛŸºˆ2
